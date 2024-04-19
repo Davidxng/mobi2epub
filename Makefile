@@ -1,5 +1,5 @@
 /all:
-    g++ -std=c++11 hello.cpp -o hello
+    g++ -std=c++11 main.cpp -o main
 
 clean:/
-    $(RM) hello
+    $(RM) main
